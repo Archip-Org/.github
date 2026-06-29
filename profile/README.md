@@ -28,7 +28,7 @@ A **Archip** é uma iniciativa brasileira de código aberto que visa projetar e 
 ## 🤝 Como contribuir
 Quer ajudar a construir o primeiro processador brasileiro open-source? Você não precisa ser um expert!
 - **💬 Junte-se à comunidade:** [Entre no nosso Discord](EmDesenvolvimento)
-- **🐙 Código:** Acesse o repositório principal: [Archip-org/archip-riscv-core](https://github.com/Archip-Org/)
+- **🐙 Código:** Acesse o repositório principal: [Archip-RV32](https://github.com/Archip-Org/Archip-RV32)
 - **📚 Aprenda:** Confira nossa documentação e tutoriais iniciais.
 
 ## 📎 Links Rápidos
