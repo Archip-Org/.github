@@ -1,7 +1,7 @@
 # 🏗️ Archip - Open Source RISC-V Processors
 
 <div align="center">
-  <img src="https://archip.pages.dev/assets/logoverdeamarelafundobranco.png" alt="Logo Archip" class="logo">
+  <img src="https://archip.pages.dev/assets/logosemfundo.png" alt="Logo Archip" class="logo">
   <br>
   <em>Construindo o futuro do hardware livre no Brasil.</em>
 </div>
