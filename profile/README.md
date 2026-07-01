@@ -19,8 +19,8 @@ A **Archip** é uma iniciativa brasileira de código aberto que visa projetar e 
 - Construir uma comunidade global de engenheiros e entusiastas de hardware.
 
 ## 🗺️ Roadmap (O que estamos fazendo)
-- [ ] Configuração do toolchain (Yosys, Nextpnr).
-- [ ] Implementação da ULA (Unidade Lógica e Aritmética).
+- [x] Configuração do toolchain (Yosys, Nextpnr).
+- [x] Implementação da ULA (Unidade Lógica e Aritmética).
 - [ ] Implementação do Banco de Registradores.
 - [ ] Máquina de Estados e Pipeline inicial.
 - [ ] Testes em hardware real (Tang Nano 20k).
